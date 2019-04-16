@@ -7,11 +7,6 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    
-    <style name="EditOutLine" parent="Theme.AppCompat.Light">
-        
-        <item name="co"
-    </style>
 
     <style name="checkBoxs" parent="Theme.AppCompat.Light">
         <item name="colorControlNormal">#000000</item>
